@@ -1,0 +1,8 @@
+﻿  error4.cpp
+D:\bsroom\CPPpoject\CPP_exc_mean\CPP_exc_mean\error4.cpp(5,49): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+D:\bsroom\CPPpoject\CPP_exc_mean\CPP_exc_mean\error4.cpp(6,49): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+D:\bsroom\CPPpoject\CPP_exc_mean\CPP_exc_mean\error4.cpp(44,1): warning C5043: 'hmean': 예외 사양이 이전 선언과 일치하지 않습니다.
+D:\bsroom\CPPpoject\CPP_exc_mean\CPP_exc_mean\error4.cpp(5): message : 'hmean' 선언을 참조하십시오.
+D:\bsroom\CPPpoject\CPP_exc_mean\CPP_exc_mean\error4.cpp(50,1): warning C5043: 'gmean': 예외 사양이 이전 선언과 일치하지 않습니다.
+D:\bsroom\CPPpoject\CPP_exc_mean\CPP_exc_mean\error4.cpp(6): message : 'gmean' 선언을 참조하십시오.
+  CPP_exc_mean.vcxproj -> D:\bsroom\CPPpoject\CPP_exc_mean\Debug\CPP_exc_mean.exe
