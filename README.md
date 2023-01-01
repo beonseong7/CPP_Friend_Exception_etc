@@ -1,0 +1,1 @@
+# CPP_Friend_Exception_etc
